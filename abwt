@@ -1,3 +1,5 @@
-country: USA AND (site:Twitter.com OR site: Facebook.com OR site: Instagram.com) AND ("wisconsin") AND
+country: USA AND (site:Twitter.com OR site: Facebook.com OR site: Instagram.com) AND ("wisconsin" NEAR/10
 ("dem" OR "democrat" OR "biden" OR "evers" OR "madison" OR "milwaukee" OR "ABWT" OR "WI" OR "progressive" OR "black lives matter" OR "BLM"
-OR "vote2020")
+OR "vote2020"))
+
+

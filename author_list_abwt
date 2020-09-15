@@ -1,0 +1,6 @@
+Bio_contains: "WI" OR "Wisconsin" OR "UW-Madison" OR "Madison" AND 
+Tweets_About: "#democrats" OR "Joe Biden" OR "Biden"
+Author_Location: United States
+
+
+Filter: Unverified 

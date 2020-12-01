@@ -1,0 +1,3 @@
+country: USA AND (site:Twitter.com OR site: Facebook.com OR site: Instagram.com) AND ("virginia" NEAR/10
+("dem" OR "democrat" OR "biden" OR "northam" OR "richmond" OR "arlington" OR "VA" OR "progressive" OR "black lives matter" OR "BLM"
+OR "vote2020" OR "small-business" or "entrepreneur" or "paid sick leave"))
